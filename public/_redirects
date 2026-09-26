@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA fallback — required for clean URLs like
+# /produit/nom-du-produit to work on full page reload (React Router
+# BrowserRouter mode). Static assets are still served directly.
+/*    /index.html   200
